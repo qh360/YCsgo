@@ -1,0 +1,1 @@
+start Win\MyCsgo.exe -nosteam
